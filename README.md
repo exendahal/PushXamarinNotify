@@ -51,7 +51,7 @@ Link: https://romannurik.github.io/AndroidAssetStudio/icons-notification.html#so
   
   Make sure you create your notification channel and suscribe to the topic that you are using in your payload 'to' parameter. If you want to notify specific user, replace topic with user's firebase id. </br>
   Subscribe Notification ` FirebaseMessaging.Instance.SubscribeToTopic("all");` </br>
-  For for details refer the repo code above.
+  For more details refer the repo code above.
   
  # Notification Preview
  <img  src="Screenshot/Screenshot_1624419850.png" width="320" height="600"> </br>
