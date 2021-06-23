@@ -6,7 +6,7 @@ Firebase push notification with ImageUrl payload on Xamarin Android
   * Xamarin.Firebase.Messaging
   * Xamarin.AndroidX.RecyclerView
   * Xamarin.Google.Dagger
-* Get server key from firebase console and download goole-services.json file
+* Get server key from firebase console and download google-services.json file
 * Place goole-services.json inside android project and set build action to GoogleServices.Json
 
 # Learn More 
