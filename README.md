@@ -1,5 +1,5 @@
 # Push Xamarin Notify
-Firebase push notification with ImageUrl payload on Xamarin Android
+Firebase push notification with json payload. Implementation on Xamarin Android to display notification with tile, body and Image.
 
 # Setup
 * Install following nuget package inside Xamarin Android Project
