@@ -54,5 +54,5 @@ Link: https://romannurik.github.io/AndroidAssetStudio/icons-notification.html#so
   For more details refer the repo code above.
   
  # Notification Preview
- <img  src="Screenshot/Screenshot_1624419850.png" width="320" height="600"> </br>
+ <img  src="Screenshot/Screenshot_1624419850.png" width="320" height="650"> </br>
  
